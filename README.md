@@ -4,4 +4,6 @@
 
 ..라고 하고 싶지만, 사실 일본 노래를 자주 부르는데 히라가나와 가타카나가 빠릇빠릇하게 나오질 않아서 연습하고자 언젠가 한국어 표기 없이 일본 노래를 잘 부를 수 있기를 바라면서 만들게 되었습니다.
 
-![](https://github.com/HyunP-dev/Kana-Practice-Program/blob/main/screenshot.png?raw=true)
+<p align="center">
+  <img src="https://github.com/HyunP-dev/Kana-Practice-Program/blob/main/screenshot.png?raw=true"/>
+</p>
